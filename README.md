@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @deku-ofa
-- 👀 I’m interested in Java, PLM.
+- 👀 I’m interested in Java, SQL.
 - 🌱 I’m currently learning Java.
 - 💞️ I’m looking to collaborate on a very simple project.
 - 📫 How to reach me: contact me on GitHub.
